@@ -1,0 +1,98 @@
+[
+  {
+    "Actor": "Shah Rukh Khan",
+    "Film": "Pathaan",
+    "Year": 2023,
+    "Genre": "Action",
+    "BoxOffice(INR Crore)": 1050,
+    "IMDb": 7.2
+  },
+  {
+    "Actor": "Salman Khan",
+    "Film": "Tiger Zinda Hai",
+    "Year": 2017,
+    "Genre": "Action",
+    "BoxOffice(INR Crore)": 565,
+    "IMDb": 6.0
+  },
+  {
+    "Actor": "Aamir Khan",
+    "Film": "Dangal",
+    "Year": 2016,
+    "Genre": "Biography",
+    "BoxOffice(INR Crore)": 2024,
+    "IMDb": 8.4
+  },
+  {
+    "Actor": "Ranbir Kapoor",
+    "Film": "Brahmastra",
+    "Year": 2022,
+    "Genre": "Fantasy",
+    "BoxOffice(INR Crore)": 431,
+    "IMDb": 5.6
+  },
+  {
+    "Actor": "Ranveer Singh",
+    "Film": "Padmaavat",
+    "Year": 2018,
+    "Genre": "Historical",
+    "BoxOffice(INR Crore)": 585,
+    "IMDb": 7.0
+  },
+  {
+    "Actor": "Ayushmann Khurrana",
+    "Film": "Andhadhun",
+    "Year": 2018,
+    "Genre": "Thriller",
+    "BoxOffice(INR Crore)": 111,
+    "IMDb": 8.3
+  },
+  {
+    "Actor": "Rajkummar Rao",
+    "Film": "Stree",
+    "Year": 2018,
+    "Genre": "Horror Comedy",
+    "BoxOffice(INR Crore)": 180,
+    "IMDb": 7.5
+  },
+  {
+    "Actor": "Hrithik Roshan",
+    "Film": "War",
+    "Year": 2019,
+    "Genre": "Action",
+    "BoxOffice(INR Crore)": 475,
+    "IMDb": 6.5
+  },
+  {
+    "Actor": "Akshay Kumar",
+    "Film": "Good Newwz",
+    "Year": 2019,
+    "Genre": "Comedy",
+    "BoxOffice(INR Crore)": 318,
+    "IMDb": 7.0
+  },
+  {
+    "Actor": "Kartik Aaryan",
+    "Film": "Bhool Bhulaiyaa 2",
+    "Year": 2022,
+    "Genre": "Horror Comedy",
+    "BoxOffice(INR Crore)": 266,
+    "IMDb": 5.9
+  },
+  {
+    "Actor": "Varun Dhawan",
+    "Film": "Badrinath Ki Dulhania",
+    "Year": 2017,
+    "Genre": "Romantic Comedy",
+    "BoxOffice(INR Crore)": 201,
+    "IMDb": 6.1
+  },
+  {
+    "Actor": "Vicky Kaushal",
+    "Film": "Uri: The Surgical Strike",
+    "Year": 2019,
+    "Genre": "Action",
+    "BoxOffice(INR Crore)": 342,
+    "IMDb": 8.2
+  }
+]
